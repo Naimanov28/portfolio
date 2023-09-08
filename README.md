@@ -1,4 +1,5 @@
-+-* Portfolio Frontend Developer
+
+Portfolio Frontend Developer
 - HTML5
 * CSS
 + BOOTSTRAP
